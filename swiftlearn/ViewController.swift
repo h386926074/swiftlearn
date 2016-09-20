@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("hello world")
+        var myswift = "hello swift!!"
+        print(myswift)
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
